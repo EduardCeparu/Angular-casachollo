@@ -1,0 +1,47 @@
+.header{
+    background-color: white;
+    height: 90px;
+    display: flex;
+}
+.contenidoIzquierda{
+    display: flex;
+    line-height: 90px;
+    height: 90px;
+    padding-left: 50px;
+    flex: 1;
+}
+.casaChollo{
+    font-weight: bold;
+    font-size: 25px;
+    color: darkblue;
+    margin-left: 10px;
+}
+
+.comprarAlquilar{
+    margin-left: 20px;
+}
+
+.contenidoDerecha{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-right:120px ;
+}
+.textoDerecha{
+    font-size: 20px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
+.iconoDerecha{
+    margin-bottom: 5px;
+    width: 30px;
+}
+.botonesDerecha{
+    margin-left: 10px;
+}
+#misAlertas{
+    margin-right: 50px;
+}
+.userIcon{
+    margin-right: 10px;
+}

@@ -1,0 +1,18 @@
+.containerLegal{
+    color: white;
+    height: 180px;
+    background-color: rgb(37, 13, 117);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.miNombre{
+    margin-right: 50px;
+}
+span{
+    font-size: 20px;
+}
+.textos{
+    margin-left: 10px;
+}
